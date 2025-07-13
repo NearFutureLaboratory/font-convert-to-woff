@@ -1,0 +1,10 @@
+{
+  "font": {
+    "font_path": "./output_fonts/",
+    "output_dir": "output_fonts"
+  },
+  "options": {
+    "show_metadata": true,
+    "directory": true
+  }
+}
